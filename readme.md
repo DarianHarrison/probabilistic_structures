@@ -9,6 +9,3 @@ mid-term:
 - write python implementation of cqf
 - write python implementation of rsqf
 - write python implementation of kinetic hanger/heater 
-
-long-term  :
-- Translate structures into go/scala
